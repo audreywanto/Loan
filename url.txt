@@ -1,0 +1,2 @@
+URL Dataset: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/
+URL Deployment: https://huggingface.co/spaces/atsudan/Milestone2
