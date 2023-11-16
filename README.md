@@ -12,3 +12,5 @@ Libraries used for this project include:
 - seaborn
 - feature_engine
 - scikit-learn
+
+url.txt contains a link for huggingface deployment for users to try and predict for themselves.
